@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'MGTest/Classes/**/*'
+  s.source_files = 'MGTest/MGTest/Classes/**/*'
   
   # s.resource_bundles = {
   #   'MGTest' => ['MGTest/Assets/*.png']
