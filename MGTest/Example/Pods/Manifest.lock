@@ -4,24 +4,21 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - MGTest (0.1.0)
+  - MGTest (1.0.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
-  - MGTest (from `../`)
+  - MGTest
 
 SPEC REPOS:
   trunk:
     - FBSnapshotTestCase
-
-EXTERNAL SOURCES:
-  MGTest:
-    :path: "../"
+    - MGTest
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  MGTest: b524da7486953e3fea84e652a21f8e0ba2917192
+  MGTest: 725baa35b54ae8e793020f232812080bcd5b7d73
 
-PODFILE CHECKSUM: 2abf061bac4003261a9572b7fcba23eda162f8b1
+PODFILE CHECKSUM: b08dd3261ed932527bd52d98870f3a12edee4892
 
-COCOAPODS: 1.10.0
+COCOAPODS: 1.10.1
