@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MGTest'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of MGTest.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+ Add long description of the pod here,description of the pod here
                        DESC
 
   s.homepage         = 'https://github.com/L-vinCent/MGTest'
